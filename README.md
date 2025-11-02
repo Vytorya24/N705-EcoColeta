@@ -8,6 +8,7 @@ It's a Vite+React app that communicates with the Base44 API.
 
 ```bash
 npm install
+npm install leaflet react-leaflet
 npm run dev
 ```
 
